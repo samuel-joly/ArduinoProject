@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+<meta charset="utf-8">
+<title>Ethernet PlaisirArduino</title>
+<meta name="viewport" content="width=device-width">
+
+<!-- Feuille de styles génériques -->
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+</head>
+
+<body   >
+
+<h1>Commande des diodes</h1>
+
+<div id="wrap">
+
+	
+	
+	<form method="get" action="">
+	<p ><input type="radio" id="Br2on" name="b2" value="1"        
+> <input type="radio" id="Br2off" name="b2" value="0"  checked
+  > Broche2</p>
+
+	<p><input type="Radio" id="Br3on" name="b3"  value="1" checked
+
+> <input type="Radio" id="Br3off" name="b3"  value="0"       
+  >Broche3</p>
+
+	<p><input type="Radio" id="Br5on" name="b5"  value="1" checked
+
+> <input type="Radio" id="Br5off" name="b5"  value="0"        
+ >Broche5</p>
+
+		<INPUT TYPE="submit" NAME="Envoyer" VALUE="Envoyer"> <a href="http://192.168.1.123"><input type="button" name="Miseajour " value="Mise à jour"/></a>
+	</form>
+	
+
+
+
+</div>
+
+
+</body>
+</html>

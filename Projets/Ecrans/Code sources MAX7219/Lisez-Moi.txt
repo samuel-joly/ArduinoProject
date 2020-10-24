@@ -1,0 +1,23 @@
+*******************************************************************************************************************
+Conditions d’utilisation
+
+En téléchargeant ou en utilisant les codes sources de PlaisirArduino, ces conditions s’appliqueront automatiquement à vous; assurez-vous de les lire attentivement avant d’utiliser le contenu en
+téléchargement sur http://plaisirarduino.fr
+
+Sachez que je mets gratuitement à votre disposition, des sketchs, des montages et des documents que je réalise et teste personnellement. Etant un amateur de la platine Arduino Uno des erreurs peuvent se produire. En conséquence, je me décharge de toutes responsabilités dans le cadre de la détérioration de vos équipements.
+
+Dans la mesure où vous avez à votre connaissance une rectification à apporter au contenu téléchargé, vous pouvez me contacter à la rubrique contact de http://www.plaisirarduino.fr .
+
+*******************************************************************************************************************
+
+
+Ce dossier contient :
+
+Les sketchs pour la matrice 1588BS et des afficheurs sept segments en mode SPI et LedControle.
+Des fichiers excel pour convertir les données des matrices et des afficheurs.
+
+
+
+	
+
+	
